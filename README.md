@@ -1,1 +1,1 @@
-# SifreliSocketMesajlasmaPython
+Python programlama dili ile yazilmistir. Konsol ekranindan bir adet sunucu calistirilir ve kisiler istemci programiyla konsol ekranindan bu sunucuya baglanirlar. Sunucu istemciden gelen bir mesaji tum istemcilere iletmektedir. Ayni anda hem mesaj alma hemde mesaj iletmesi gerektiginden paralel programlama yapilmistir. Ayrica guvenlik acisindan simetrik sifreleme, asimetrik sifreleme ve sifresiz baglanti kurulumlari entegre edilmistir.
